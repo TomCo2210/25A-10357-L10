@@ -62,10 +62,19 @@ class MainActivity : AppCompatActivity() {
                     transactToLoginActivity()
                 }
         }
+
+        binding.mainBTNMovieList.setOnClickListener {
+            transactToMovieListActivity()
+        }
     }
 
     private fun transactToLoginActivity() {
         intent = Intent(this, LoginActivity::class.java)
+        startActivity(intent)
+        finish()
+    }
+    private fun transactToMovieListActivity() {
+        intent = Intent(this, MovieListActivity::class.java)
         startActivity(intent)
         finish()
     }

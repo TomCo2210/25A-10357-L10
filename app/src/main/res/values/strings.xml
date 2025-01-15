@@ -3,4 +3,5 @@
     <string name="hint">Enter a message to save...</string>
     <string name="send">Send</string>
     <string name="sign_out">Sign Out</string>
+    <string name="movie_list">Movie List</string>
 </resources>

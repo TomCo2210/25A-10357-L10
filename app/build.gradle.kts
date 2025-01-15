@@ -60,4 +60,10 @@ dependencies {
 
     //Realtime DB:
     implementation(libs.firebase.database)
+
+
+    //Glide
+    implementation(libs.glide)
+
+
 }
