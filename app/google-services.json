@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195250044473",
+    "firebase_url": "https://a-10357-l10-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "a-10357-l10",
+    "storage_bucket": "a-10357-l10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195250044473:android:53f39788db61e7d11217e8",
+        "android_client_info": {
+          "package_name": "dev.tomco.a25a_10357_l10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195250044473-ui6o6uf525gqudpu171sao069unj7fke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.tomco.a25a_10357_l10",
+            "certificate_hash": "c637d490ee72983a2c58cd53308738040e6d8cfc"
+          }
+        },
+        {
+          "client_id": "195250044473-ga0de32vqhft4o25va6o3pb4sqsgrm18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEIKa_hg75Nyk9l2vKdaXh0z5L9NilA_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195250044473-ga0de32vqhft4o25va6o3pb4sqsgrm18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
